@@ -21,8 +21,10 @@
 ---  
 **프릭스헬스케어** @FriggsHealthcare <sub>FE intern (2021.08 ~ 2021.11)</sub>  
 
-**푸른망아지** @Poomang <sub>FE intern (2022.07 ~ )</sub>  
 <!--
+
+**푸른망아지** @Poomang <sub>FE intern (2022.07 ~ )</sub>  
+
 <br>
 
 
