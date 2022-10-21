@@ -11,9 +11,9 @@
 [![Styled Badge](https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
   
 
-✨ *For More Info...* **
+✨ *For More Info...*
 <!--
-[WEBSITE]()** | 
+**[WEBSITE]()** | 
 -->
 **[BLOG](https://velog.io/@swimmingone)** | **[RESUME](https://swimmingone.notion.site/Collab-Growth-Mindset-58723f5d03f54c368c2dee0e72b8893e)**
 
