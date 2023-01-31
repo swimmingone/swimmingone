@@ -27,7 +27,7 @@
 
 
 
-**디어코퍼레이션** @DeerCorporation <sub>UX Engineer Assistant (2023.01 ~ )</sub>  
+**디어코퍼레이션** @DeerCorporation <sub>Software Engineer (2023.01 ~ )</sub>  
 
 
 <!--
