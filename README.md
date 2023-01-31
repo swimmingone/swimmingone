@@ -23,7 +23,11 @@
 
 
 
-**비바리퍼블리카(토스)** @VivaRepublica <sub>UX Engineer Assistant (2022.07 ~ )</sub>  
+**비바리퍼블리카(토스)** @VivaRepublica <sub>UX Engineer Assistant (2022.07 ~ 2023.01 )</sub>  
+
+
+
+**디어코퍼레이션** @DeerCorporation <sub>UX Engineer Assistant (2023.01 ~ )</sub>  
 
 
 <!--
