@@ -20,10 +20,11 @@
 
 ---  
 
+**캔랩코리아** @CANLab <sub>Front-end Engineer (2024.03 ~ )</sub>
 
-**디어코퍼레이션** @DeerCorporation <sub>Software Engineer (2023.01 ~ )</sub>  
+**디어코퍼레이션** @DeerCorporation <sub>Software Engineer (2023.01 ~ 2024.01)</sub>  
 
-**비바리퍼블리카(토스)** @VivaRepublica <sub>UX Engineer Assistant (2022.07 ~ 2023.01 )</sub>  
+**비바리퍼블리카(토스)** @VivaRepublica <sub>UX Engineer Assistant (2022.07 ~ 2023.01)</sub>  
 
 **프릭스헬스케어** @FriggsHealthcare <sub>FE intern (2021.08 ~ 2021.11)</sub>  
 
